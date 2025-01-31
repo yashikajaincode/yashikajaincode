@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yashikajain2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QARE_lxsyvdJRSQhTZ959VR2vKpXDczT/view?usp=sharing](https://drive.google.com/file/d/1QARE_lxsyvdJRSQhTZ959VR2vKpXDczT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kqfECxjraPhWYtkivVQwWGWQIV5ai-2y/view?usp=sharing]
 
 - ⚡ Fun fact **Frontend developer with a love for clean code and Taylor Swift lyrics.**
 
