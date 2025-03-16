@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Yashika Jain</h1>
 <h3 align="center">🚀 AI Innovator | ML Engineer | Software Developer | Data Science Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/62/17/37/360_F_262173764_3sxll45SOaGP5uEC7PukV3LHOB7H8dp2.jpg">
+<img align="center" alt="AI/ML Banner" width="100%" src="https://raw.githubusercontent.com/YashikaJainCode/YashikaJainCode/main/github_profile.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikajaincode&label=Profile%20views&color=0e75b6&style=flat" alt="yashikajaincode" /> </p>
 
@@ -10,7 +10,7 @@
 ### 🚀 Who Am I?
 - 🧠 **AI Enthusiast**: I build AI-powered solutions that solve real-world problems.
 - 🔍 **ML Engineer**: Worked on AI-driven stock prediction, early stroke detection & more.
-- 💡 **Web Developer**: Created intelligent web apps with **React, Node, and LangChain**.
+- 🏰 **Web Developer**: Created intelligent web apps with **React, Node, and LangChain**.
 - 🎯 **Tech Explorer**: Currently mastering **LangChain, LLMs, and advanced AI integrations**.
 - 📄 [My Resume](https://drive.google.com/file/d/1kqfECxjraPhWYtkivVQwWGWQIV5ai-2y/view?usp=sharing)
 
@@ -38,7 +38,7 @@
    - Integrated **sentiment analysis** and AI to predict market trends.  
    - Web app built with **React, Flask, and ML models**.  
 
-- **🩺 Early Stroke Detection System**  
+- **🏥 Early Stroke Detection System**  
    - Developed an ML model for **stroke prediction** using medical data.  
    - Optimized model performance through **data preprocessing & analytics**.  
 
@@ -65,14 +65,10 @@
 
 ---
 
-
-
----
-
 ### 🌎 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashika-jain-67933b254/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashika___j)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashikajain2004@gmail.com)
 
 ---
-⭐ **Pro Tip:** If AI had a personality, my code would be its mood swings! 🚀
+🌟 **Pro Tip:** If AI had a personality, my code would be its mood swings! 🚀
