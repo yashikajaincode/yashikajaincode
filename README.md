@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Yashika Jain</h1>
 <h3 align="center">🚀 AI Innovator | ML Engineer | Software Developer | Data Science Enthusiast</h3>
 
-<img align="right" alt="AI/ML Banner" width="50%" src="https://raw.githubusercontent.com/YashikaJainCode/YashikaJainCode/main/github_profile.webp" />
+<img align="right" alt="AI/ML Banner" width="40%" src="https://raw.githubusercontent.com/YashikaJainCode/YashikaJainCode/main/github_profile.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikajaincode&label=Profile%20views&color=0e75b6&style=flat" alt="yashikajaincode" /> </p>
 
