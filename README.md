@@ -12,7 +12,6 @@
 - 🔍 **ML Engineer**: Worked on AI-driven stock prediction, early stroke detection & more.
 - 💡 **Web Developer**: Created intelligent web apps with **React, Node, and LangChain**.
 - 🎯 **Tech Explorer**: Currently mastering **LangChain, LLMs, and advanced AI integrations**.
-- 🎬 **Featured on Shark Tank**: Contributed to Licksters' rebranding & market strategy.
 - 📄 [My Resume](https://drive.google.com/file/d/1kqfECxjraPhWYtkivVQwWGWQIV5ai-2y/view?usp=sharing)
 
 ---
